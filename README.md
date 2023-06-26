@@ -56,7 +56,7 @@
                     <li>Endereço completo da clínica</li>
                     <li>Um Iframe com o Google Maps apontando o endereço da clínica</li>
                     <li>Um formulário de contato com:</li>
-                    <li>l>E-mail (type="email")</li>
+                    <li>E-mail (type="email")</li>
                     <li>Assunto (type="text")</li>
                     <li>Mensagem (textarea)</li>
                     <li>Botões de envias e limpar formulário</li>
