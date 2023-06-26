@@ -1,0 +1,70 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: rgb(230, 252, 253);
+    padding: 10px 20px 0px;
+}
+.header {
+    background-color: rgb(242, 252, 216);
+    min-height: 150px;
+    text-align: center;
+}
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+}
+.footer {
+    background-color: rgb(253, 220, 212);
+    min-height: 150px;
+    text-align: center;
+}
+ul {
+    list-style: none;
+    padding: 40px 0px 40px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: rgb(0, 23, 24);
+    font-weight: 500;
+    padding: 10px 10px 10px 10px;
+    position: fixed;
+}
+
+ul li a:hover {
+    background: rgb(190, 255, 255);
+}
+a {
+    text-decoration: none;
+}
+#logo {
+    width: 400px;
+    padding: 25px 0;
+}
+#social {
+    padding: 5px 15px 0px 15px;
+    width: 25px;
+}
+#dados {
+    font-size:larger;
+}
