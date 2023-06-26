@@ -6,12 +6,12 @@
 
 <p>
     Criar um site utilizando os recursos aprendidos no curso. Os temas que deverão ser abordados são:<br>
-    <li>
-    <ul>Formulários</ul>
-    <ul>Estruturação e formatação de texto</ul>
-    <ul>Mídias</ul>
-    <ul>Tabelas</ul>
-    </li>
+    <ul>
+        <li>Formulários</li>
+        <li>Estruturação e formatação de texto</li>
+        <li>Mídias</li>
+        <li>Tabelas</li>
+    </ul>
 </p>
 
 <p>
@@ -26,12 +26,12 @@
 
 <p >
     Todas as páginas terão que seguir um padrão pré-definido. O arquivo template.html deverá ser utilizado como base. Cada seção do menu deverá levar para página contendo seguintes pontos:<br>
-    <li> 
-    <ul>Página Principal</ul>
-        <ol>Deve ter uma imagem no Header.</ol>
-        <ol>Em Content uma breve descrição sobre a clínica.</ol>
-        <ol>Menu e Footer padrões em todas as páginas.</ol>
-    </li>
+    Página Principal<br>
+        <ol>
+            <li>Deve ter uma imagem no Header.</li>
+            <li>Em Content uma breve descrição sobre a clínica.</li>
+            <li>Menu e Footer padrões em todas as páginas.</li>
+        </ol>
     • Sobre a clínica<br>
         1. Deve ter uma imagem diferente no Header.<br>
         2. Em Content um texto falando sobre a clínica.<br>
